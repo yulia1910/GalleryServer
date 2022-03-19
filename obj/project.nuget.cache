@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "23xoimxfTEIVj9U0SNgb1O0rN0bNQE5XC0zUD+B6P3Y2Z//S9nLR9noltbtfpMzTD7q+uVqMzdUPLBVzjyQ+wQ==",
+  "success": true,
+  "projectFilePath": "C:\\Yulia\\LearnProject\\Gallery1\\Gallery1\\Gallery1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
